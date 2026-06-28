@@ -1,4 +1,4 @@
-# RNN for Text Sentiment Classification
+# Bidirectional RNN for Text Sentiment Classification
 
 ## Project Overview
 
